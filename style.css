@@ -1409,3 +1409,7 @@ form .textarea textarea:focus + span {
     font-size: 3.5rem;
   }
 }
+@media(max-width:500px){
+    html{
+        font-size: 45%;
+    }
