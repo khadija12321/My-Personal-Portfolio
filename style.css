@@ -1411,6 +1411,6 @@ form .textarea textarea:focus + span {
 }
 @media(max-width:500px){
     html{
-        font-size: 45%;
+        font-size: 55%;
     }
 }
