@@ -39,10 +39,10 @@ window.addEventListener('scroll', bottomTopBtn);
 
 
 let imgArr = [
-    "/assets/header-1.jpg",
-    "/assets/header-2.jpg",
-    "/assets/header-3.jpg",
-    "/assets/header-4.jpg"
+    "assets/header-1.jpg",
+    "assets/header-2.jpg",
+    "assets/header-3.jpg",
+    "assets/header-4.jpg"
 ];
 
 let currentIndex = 0;
