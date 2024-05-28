@@ -1127,6 +1127,7 @@ form .textarea textarea:focus + span {
 
   header {
     background-position: right;
+      height: 60vh;
   }
 
   header .hero h1 {
