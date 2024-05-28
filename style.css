@@ -1187,7 +1187,7 @@ form .textarea textarea:focus + span {
 
   .about-interests h1 {
     font-size: 2.2rem;
-    width: 100%;
+    width: 80%;
   }
 
   .about-interests .icons-interest {
@@ -1411,6 +1411,6 @@ form .textarea textarea:focus + span {
 }
 @media(max-width:500px){
     html{
-        font-size: 55%;
+        font-size: 75%;
     }
 }
