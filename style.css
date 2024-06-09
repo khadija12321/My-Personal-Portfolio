@@ -1428,7 +1428,7 @@ form .textarea textarea:focus + span {
   }
 
 }
-@media(max-width:458px){
+@media(max-width:480px){
   .about-interests h1{
     font-size: 2rem;
   }
