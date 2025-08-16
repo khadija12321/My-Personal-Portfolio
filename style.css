@@ -509,7 +509,7 @@ header .hero p {
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 140px;
+  gap: 180px;
   justify-content: center;
   width: 83.33%;
   padding: 50px 0px;
