@@ -399,7 +399,7 @@ header .hero p {
 
 .about-interests .icons-interest .intersting-icon:hover.intersting-icon i {
   color: white;
-  background-color: #00d7bb;
+  background-color: #01c9ae;
 }
 
 .about-interests .icons-interest .intersting-icon:hover.intersting-icon h2 {
@@ -509,7 +509,7 @@ header .hero p {
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 90px;
+  gap: 140px;
   justify-content: center;
   width: 83.33%;
   padding: 50px 0px;
@@ -1063,7 +1063,7 @@ form .textarea textarea:focus + span {
   color: white;
 }
 
-@media (max-width: 550px) {
+@media (max-width: 750px) {
   html,
   body {
     width: 100%;
@@ -1430,7 +1430,7 @@ form .textarea textarea:focus + span {
 }
 @media(max-width:480px){
   .about-interests h1{
-    font-size: 2rem;
+    font-size: 78%;
   }
   .experience-title{
     font-size: 1.8rem;
